@@ -28,7 +28,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 > **Problems for Week 1**
 
 | Problem Link | Status | Difficulty | Topic |
-| ------ | ------ | ------ |
+| ------ | ------ | ------ | ------ |
 | [Number of Islands](https://leetcode.com/problems/number-of-islands/)  |✅  |  Easy| DFS |
 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | ✅ | Easy-Medium  |Greedy |
 | [Two Sum](https://leetcode.com/problems/two-sum/) |  |  |
