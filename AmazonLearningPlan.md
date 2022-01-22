@@ -46,13 +46,13 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 > **Problems for Week 2**
 
-| Problem Link | Status | Difficulty |
-| ------ | ------ | ------ |
+| Problem Link | Status | Difficulty | Topic |
+| ------ | ------ | ------ | ------ |
 | [Top K Frequent Words]( https://leetcode.com/problems/top-k-frequent-words/) |  |  |
 | [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/)  |  |  |
 | [Most Common Word](https://leetcode.com/problems/most-common-word/)  |  |  |
 | [Merge k Sorted Lists]( https://leetcode.com/problems/merge-k-sorted-lists/) |  |  |
-| [Longest Palindromic Substring]( https://leetcode.com/problems/longest-palindromic-substring/) | ✅  |  |
+| [Longest Palindromic Substring] Solve It ( https://leetcode.com/problems/longest-palindromic-substring/) | ✅  |  |
 | [Subtree of Another Tree]( https://leetcode.com/problems/subtree-of-another-tree/)  |  |  |
 | [Trapping Rain Water]( https://leetcode.com/problems/trapping-rain-water/)  |  |  |
 | [Word Ladder]( https://leetcode.com/problems/word-ladder/)  |  |  |
@@ -64,8 +64,8 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 > **Problems for Week 3**
 
-| Problem Link | Status | Difficulty |
-| ------ | ------ | ------ |
+| Problem Link | Status | Difficulty | Topic |
+| ------ | ------ | ------ | ------ |
 | [Longest Substring Without Repeating Characters]( https://leetcode.com/problems/longest-substring-without-repeating-characters/)  |  |  |
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  |  |  |
 | [Merge Intervals]( https://leetcode.com/problems/merge-intervals/)  |  |  |
@@ -81,9 +81,8 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 <br>
 
 > **Problems for Week 4**
-
-| Problem Link | Status | Difficulty |
-| ------ | ------ | ------ |
+| Problem Link | Status | Difficulty | Topic |
+| ------ | ------ | ------ | ------ |
 | [Robot Bounded In Circle]( https://leetcode.com/problems/robot-bounded-in-circle/) |  |  |
 | [Number of Provinces ]( https://leetcode.com/problems/number-of-provinces/) |  |  |
 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) |  |  |
@@ -100,8 +99,8 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 > **Problems for Week 5**
 
-| Problem Link | Status | Difficulty |
-| ------ | ------ | ------ |
+| Problem Link | Status | Difficulty | Topic |
+| ------ | ------ | ------ | ------ |
 | [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/) |  |  |
 | [GitContainer With Most Water]( https://leetcode.com/problems/container-with-most-water/) |  |  |
 | [Design Tic-Tac-Toe]( https://leetcode.com/problems/design-tic-tac-toe/) |  |  |
