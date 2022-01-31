@@ -33,7 +33,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | ✅ | Easy-Medium  |Greedy |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | ✅ |  |
 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)  | ✅  | Medium | Implementation |
-| [LRU Cache](https://leetcode.com/problems/lru-cache/)  |  |  |
+| [LRU Cache](https://leetcode.com/problems/lru-cache/)  | ✅ |  |
 | [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)  | ✅  |  | DFS and DP |
 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) |  |  |
 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)  | ✅ |  |
